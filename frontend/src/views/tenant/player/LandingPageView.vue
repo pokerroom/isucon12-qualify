@@ -1,7 +1,7 @@
 <template>
   <div class="lp">
     <div class="box">
-    <h2>プレイヤーサイトへログイン</h2>
+    <h2>PRプレイヤーサイトへログイン</h2>
     <form
       @submit.prevent="handleSubmit"
     >
